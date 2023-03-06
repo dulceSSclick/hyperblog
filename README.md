@@ -10,3 +10,4 @@ Blog para el curso de Git y Github en Platzi.
 * Cursos.
 * ETC..
 * Creado por Dulce García 
+* Incluye diferntes ejemplos
